@@ -6,6 +6,7 @@ intro: Whether you are offering an external API or just want to talk to the mode
 
 level: 3
 packages:
+ - rustc-serialize
  - serde_json
  - json_macros
  - jsonway

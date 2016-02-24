@@ -28,6 +28,7 @@ orms:
  - diesel
  - codegenta
  - tql
+ - ohmers
 
 tools:
  - schemamama

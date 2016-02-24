@@ -23,6 +23,7 @@ packages:
  - backtrace
  - docopt
  - url
+ - robotparser
 
 news_tag: utils
 ---

@@ -31,6 +31,7 @@ packages:
  - pusher
  - slack-hook
  - rusoto
+ - afterparty
 
 missing:
  - Facebook

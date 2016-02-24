@@ -14,6 +14,7 @@ packages:
  - dtl
  - rustache
  - twig
+ - polly
 
 news_tag: templating
 ---

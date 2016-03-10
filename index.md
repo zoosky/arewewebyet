@@ -20,6 +20,12 @@ The frameworks of choice of the community are <a href="/topics/frameworks/#pkg-i
 
 If you need to (or want to) go lower in the stack, those frameworks all use the fairly stable and mature <a href="/topics/stack/#pkg-hyper">hyper http stack</a>, if you want it slimmer <a href="/topics/stack/#pkg-tiny_http">tiny_http</a> might be an option and for the async-fans <a href="/topics/stack/#pkg-rotor-http">rotor</a> has you covered. If you need HTTP2, you have to turn to <a href="/topics/stack/#pkg-solicit">solicit</a> as none of the other stacks supports it just yet.
 
+### Getting started
+
+After you've set up your rust and worked yourself [through "The Book"](https://doc.rust-lang.org/book/), we highly recommend taking a look at [fully annotated source code](https://clippy.bashy.io/docs/) of the [clippy-service](https://clippy.bashy.io), an iron-based microservice, which shows how to use many common features like redis database connections or JSON parsing. And take a look at [this blog post by auth0.com](https://auth0.com/blog/2015/11/30/build-an-api-in-rust-with-jwt-authentication-using-nickelrs/) especially if nickel and mongo are of more interest to you.
+
+Either way you choose, if you find yourself stuck and looking for help, the [official Rust-Lang user forum](https://users.rust-lang.org/) has a [help section](https://users.rust-lang.org/c/help), where you are welcome to post your questions and soon will find help.
+
 
 ## In detail
 

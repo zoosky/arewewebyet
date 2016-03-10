@@ -14,6 +14,7 @@ queues:
  - disque
  - ferrous_threads
  - kafka
+ - oppgave
 
 search:
  - rs-es

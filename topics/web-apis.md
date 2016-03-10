@@ -15,6 +15,7 @@ packages:
  - discord
  - strava
  - github
+ - hubcaps
  - rust-github
  - googl
  - vkrs

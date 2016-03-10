@@ -3,7 +3,7 @@ set -e
 BASE="_data/pkgs"
 FILES=`ls -1 $BASE`
 SERVER="https://crates.io/api/v1/crates/"
-NEW_VERSIONS=()
+NEW_VERSIONS=""
 for f in "$@"
 do
   if [[ "$f" == *json ]];
@@ -14,7 +14,7 @@ do
   fi
 
   PKG_INFO="$BASE/$pkg.json"
-  VERSION="unknown"
+  VERSION="new"
   if [ -f $PKG_INFO ]; then
     VERSION=`cat $PKG_INFO |  bash ./scripts/JSON.sh -b | grep '\["crate","max_version"\]' | awk -F' ' '{gsub(/"/, "", $2); print $2}'`
   fi
@@ -23,7 +23,8 @@ do
 
   NEW_VERSION=`cat $PKG_INFO |  bash ./scripts/JSON.sh -b | grep '\["crate","max_version"\]' | awk -F' ' '{gsub(/"/, "", $2); print $2}'`
 
-  [ "$VERSION" != "$NEW_VERSION" ] && NEW_VERSIONS+=($pkg)
+  if [ "$VERSION" != "$NEW_VERSION" ]; then
+    NEW_VERSIONS+="\n - [$pkg ($VERSION => $NEW_VERSION)](https://crates.io/crates/$pkg)"
+  fi
 done
-
-echo "New Versions found for: $NEW_VERSIONS"
+printf "## Crates updates found: \n $NEW_VERSIONS\n"

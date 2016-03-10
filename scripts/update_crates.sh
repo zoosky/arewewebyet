@@ -24,7 +24,7 @@ do
   NEW_VERSION=`cat $PKG_INFO |  bash ./scripts/JSON.sh -b | grep '\["crate","max_version"\]' | awk -F' ' '{gsub(/"/, "", $2); print $2}'`
 
   if [ "$VERSION" != "$NEW_VERSION" ]; then
-    NEW_VERSIONS+="\n - [$pkg ($VERSION => $NEW_VERSION)](https://crates.io/crates/$pkg)"
+    NEW_VERSIONS+="\n - [$pkg](https://crates.io/crates/$pkg) ($VERSION => $NEW_VERSION)"
   fi
 done
 printf "## Crates updates found: \n $NEW_VERSIONS\n"

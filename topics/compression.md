@@ -12,6 +12,7 @@ packages:
  - tar
  - inflate
  - bzip2
+ - zip
 
 news_tag: compression
 ---

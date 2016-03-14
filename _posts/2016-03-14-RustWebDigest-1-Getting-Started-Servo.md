@@ -2,7 +2,6 @@
 layout: news
 
 title: "RustWebDigest #1: Getting Started Section, Servo this summer, iron session"
-date: 2016-03-11
 author: ben
 
 tags:
@@ -12,7 +11,7 @@ tags:
 
 ---
 
-Almost a month has passed since we relaunched [AreWeWebYet](http://www.arewewebyet.org/) and quite a few news and updates made the rounds. To make it easier for you to stay up to date with current developments in Rust-Web, we decided to launch the RustWebDigest – a semi regular blog series from the AWWY curators on the state of affairs and changes since the last update. Welcome to edition #1.
+About a month has passed since we relaunched [AreWeWebYet](http://www.arewewebyet.org/) and quite a few news and updates made the rounds. To make it easier for you to stay up to date with current developments in Rust-Web, we decided to launch the RustWebDigest – a semi regular blog series from the AWWY curators on the state of affairs and changes since the last update. Welcome to edition #1.
 
 ## Getting started just got easier
 
@@ -105,3 +104,6 @@ Further more we recorded new releases to the following crates
  - [vkrs](https://crates.io/crates/vkrs) (0.5.0 => 0.6.1)
  - [websocket](https://crates.io/crates/websocket) (0.15.0 => 0.15.1)
  - [ws](https://crates.io/crates/ws) (0.4.4 => 0.4.5)
+
+
+Anything we missed? [Let us know](https://github.com/bashyHQ/arewewebyet/issues/new)!

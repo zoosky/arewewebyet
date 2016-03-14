@@ -5,9 +5,6 @@ title: "We are back, baby!"
 date: 2016-02-16
 author: ben
 
-tags:
- - digest
-
 ---
 
 It has been long, since you heard from us. But we are back – with an all new shiny and new approach of trying to answer the question:

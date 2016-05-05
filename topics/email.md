@@ -9,7 +9,6 @@ intro: What would the web be without Email? One of the easiest authentication an
 packages:
  - ssmtp
  - email
- - smtp
  - pop3
  - imap
  - lettre

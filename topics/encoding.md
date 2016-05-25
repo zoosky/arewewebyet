@@ -14,6 +14,7 @@ packages:
  - http2parse
  - nue-io
  - hpack
+ - bitsparrow
 
 news_tag: encoding
 ---

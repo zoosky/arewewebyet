@@ -15,6 +15,7 @@ packages:
  - rustache
  - twig
  - polly
+ - tera
 
 news_tag: templating
 ---

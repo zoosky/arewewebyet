@@ -9,8 +9,10 @@ packages:
  - log
  - env_logger
  - fern
+ - log4rs
  - logger
  - syslog
+ - flexi_logger
  - json_logger
  - raven
 

@@ -48,6 +48,7 @@ algorithms:
 tooling:
  - tempfile
  - cookie
+ - frank_jwt
 
 news_tag: crypto
 ---

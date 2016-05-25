@@ -22,7 +22,12 @@ If you need to (or want to) go lower in the stack, those frameworks all use the 
 
 ### Getting started
 
-After you've set up your rust and worked yourself [through "The Book"](https://doc.rust-lang.org/book/), we highly recommend taking a look at [fully annotated source code](https://clippy.bashy.io/docs/) of the [clippy-service](https://clippy.bashy.io), an iron-based microservice, which shows how to use many common features like redis database connections or JSON parsing. And take a look at [this blog post by auth0.com](https://auth0.com/blog/2015/11/30/build-an-api-in-rust-with-jwt-authentication-using-nickelrs/) especially if nickel and mongo are of more interest to you.
+After you've set up your rust and worked yourself [through "The Book"](https://doc.rust-lang.org/book/), we highly recommend taking a look at [fully annotated source code](https://clippy.bashy.io/docs/) of the [clippy-service](https://clippy.bashy.io), an iron-based microservice, which shows how to use many common features like redis database connections or JSON parsing. Otherwise you might want to check any of these blog posts (ordered latest published first):
+
+- [Let's Build a Web Server in Rust](https://dfockler.github.io/2016/05/20/web-server.html)
+- [Creating a basic webservice in Rust](http://hermanradtke.com/2016/05/16/creating-a-basic-webservice-in-rust.html)
+- [Build an API in Rust with JWT Authentication using Nickel.rs](https://auth0.com/blog/2015/11/30/build-an-api-in-rust-with-jwt-authentication-using-nickelrs/)
+
 
 Either way you choose, if you find yourself stuck and looking for help, the [official Rust-Lang user forum](https://users.rust-lang.org/) has a [help section](https://users.rust-lang.org/c/help), where you are welcome to post your questions and soon will find help.
 

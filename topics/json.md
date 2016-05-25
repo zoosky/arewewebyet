@@ -12,6 +12,7 @@ packages:
  - jsonway
  - weakjson
  - jsonrpc
+ - iron_json_response
 
 news_tag: json
 ---

@@ -11,6 +11,7 @@ packages:
  - handlebars-iron
  - maud
  - liquid
+ - horrorshow
  - dtl
  - rustache
  - twig

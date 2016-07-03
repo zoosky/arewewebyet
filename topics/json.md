@@ -13,6 +13,7 @@ packages:
  - weakjson
  - jsonrpc
  - iron_json_response
+ - json
 
 news_tag: json
 ---

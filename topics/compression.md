@@ -13,6 +13,7 @@ packages:
  - inflate
  - bzip2
  - zip
+ - zstd
 
 news_tag: compression
 ---

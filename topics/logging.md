@@ -15,7 +15,10 @@ packages:
  - flexi_logger
  - json_logger
  - raven
+ - sentry
+ - airbrake
  - slog
+ - catapult
 
 news_tag: logging
 ---

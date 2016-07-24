@@ -24,6 +24,7 @@ packages:
  - docopt
  - url
  - robotparser
+ - multipart
 
 news_tag: utils
 ---

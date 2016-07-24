@@ -15,6 +15,7 @@ packages:
  - flexi_logger
  - json_logger
  - raven
+ - slog
 
 news_tag: logging
 ---

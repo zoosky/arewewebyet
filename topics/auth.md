@@ -11,6 +11,9 @@ packages:
  - oauth-client
  - inth-oauth2
  - yup-oauth2
+ - frank_jwt
+ - macaroons
+ - otpauth
 
 missing:
  - OAuth-Provider Support

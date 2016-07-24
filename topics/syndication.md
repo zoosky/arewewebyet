@@ -10,7 +10,7 @@ packages:
  - rss
  - syndication
  - atom_syndication
- - feedreader
+ - feed
  - redox
 
 news_tag: syndication

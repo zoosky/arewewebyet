@@ -18,7 +18,7 @@ The second most widely spread news Armin Ronacher's – you know, the person beh
 
 After due consideration we've decided to rename the prior OAuth topic to a broader "Authentication/Authorization" topic as suggested by [Marcel Müller](https://github.com/TheNeikos). Thanks, Marcel, good idea!
 
-Making that topic more broad also allowed us to add more libraries to that area. [Go check it out](http://localhost:4050/topics/auth/).
+Making that topic more broad also allowed us to add more libraries to that area. [Go check it out](/topics/auth/).
 
 The second big change on the website is around logging: We've added slog (a structured logging facility) and a few remote logging implementations (sentry, airbrake) – very important tooling for every web developer!
 

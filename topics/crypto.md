@@ -26,6 +26,7 @@ tls:
  - openssl
  - solicit
  - tls
+ - webpki
 
 hashing:
  - fnv

@@ -11,6 +11,7 @@ suites:
  - rust-crypto
  - libsodium-sys
  - gpgme
+ - ring
 
 rng:
  - rand
@@ -25,6 +26,7 @@ tls:
  - openssl
  - solicit
  - tls
+ - webpki
 
 hashing:
  - fnv

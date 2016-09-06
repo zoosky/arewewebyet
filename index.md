@@ -12,7 +12,7 @@ layout: main
 
 ## Can I replace my Rails/Django/Flask already?
 
-**Well, probably not yet**. While the basics are there, many of handy utility libs that make working with many popular frameworks so quick and easy are still missing. **If your service primarily provides an API** to be consumed by  other computers, requires little external services and you are happy with writing most SQL yourself, then **Yes, You Can!** Otherwise, we would not recommend it just yet.
+**Well, probably not yet**. While the basics are there, many of the handy utility libs that make working with many popular frameworks so quick and easy are still missing. **If your service primarily provides an API** to be consumed by  other computers, requires little external services and you are happy with writing most SQL yourself, then **Yes, You Can!** Otherwise, we would not recommend it just yet.
 
 ### What should I replace it with?
 

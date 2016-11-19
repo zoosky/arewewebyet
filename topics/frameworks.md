@@ -13,6 +13,7 @@ packages:
  - rustful
  - rustless
  - pencil
+ - rouille
 
 news_tag: frameworks
 ---

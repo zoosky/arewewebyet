@@ -23,6 +23,17 @@ layout: frame
   {% include packages.html packages=page.packages %}
 {% endif %}
 
+
+{% if page.upcoming %}
+  <h4 class="upcoming">Upcoming</h4>
+  We are waiting for the following to reach maturity to be released on crates.io:
+  <ul class="upcoming">
+    {% for upcoming in page.upcoming %}
+      <li> <a href="{{upcoming.url}}">{{upcoming.name}}</a> {{upcoming.desc | markdownify }} </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {% if page.missing %}
   <h3>Still missing...</h3>
   <ul>

@@ -14,6 +14,7 @@ packages:
  - rustless
  - pencil
  - rouille
+ - edge
 
 news_tag: frameworks
 ---

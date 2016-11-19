@@ -14,6 +14,7 @@ packages:
  - jsonrpc
  - iron_json_response
  - json
+ - valico
 
 news_tag: json
 ---

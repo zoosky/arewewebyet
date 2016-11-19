@@ -12,6 +12,7 @@ packages:
  - pop3
  - imap
  - lettre
+ - atarashii_imap
 
 news_tag: email
 ---

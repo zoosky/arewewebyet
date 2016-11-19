@@ -169,6 +169,18 @@ h1 {
     margin: 10px 0 0 0;
 }
 
+ul.legend {
+  font-size: 0.6em;
+  list-style: none;
+  margin: 0;
+  padding: 0  ;
+}
+ul.legend li {
+  display: inline;
+  margin-right: 0.75em;
+
+}
+
 .level-indicator {
     font-weight: 300;
     font-size: 0.65em;

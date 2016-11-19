@@ -8,3 +8,6 @@ kramdown:
 
 gems:
   - github-pages
+
+exclude:
+  - vendor/

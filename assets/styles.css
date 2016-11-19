@@ -181,6 +181,30 @@ ul.legend li {
 
 }
 
+ul.upcoming {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.upcoming li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul.upcoming li p {
+  display: inline;
+}
+ul.upcoming li:not(:last-of-type):after {
+  display: inline;
+  content: " ,";
+}
+ul.upcoming li:last-of-type:after {
+  display: inline;
+  content: ".";
+}
+
+
 .level-indicator {
     font-weight: 300;
     font-size: 0.65em;

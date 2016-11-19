@@ -27,6 +27,12 @@ protocols:
 
 news_tag: stack
 
+
+upcoming:
+ - name: hyper-tokio
+   url: https://github.com/hyperium/hyper/issues/934
+   desc: a tokio/futures based hyper
+
 ---
 
 ## HTTP Servers

@@ -23,6 +23,7 @@ passwords:
   - djangohashers
 
 tls:
+ - rustls
  - openssl
  - solicit
  - tls
@@ -74,8 +75,6 @@ news_tag: crypto
 
 
 <h2>TLS  {% include level.html level=3 %}</h2>
-
-<p><em>Still missing: a memory-safe TLS lib built in rust only</em></p>
 
 {% include packages.html packages=page.tls %}
 

@@ -10,6 +10,7 @@ packages:
  - conduit
  - iron
  - nickel
+ - rocket
  - rustful
  - rustless
  - pencil

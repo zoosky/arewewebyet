@@ -22,6 +22,7 @@ search:
 pubsub:
  - redis
  - pubsub
+ - mqttc
 
 missing:
  - Hadoop connectors

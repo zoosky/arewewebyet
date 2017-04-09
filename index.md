@@ -23,7 +23,7 @@ If you need to (or want to) go lower in the stack, those frameworks all use the 
 
 ### Getting started
 
-After you've set up your rust and worked yourself [through "The Book"](https://doc.rust-lang.org/book/), we highly recommend taking a look at [fully annotated source code](https://clippy.bashy.io/docs/) of the [clippy-service](https://clippy.bashy.io), an iron-based microservice, which shows how to use many common features like redis database connections or JSON parsing. Otherwise you might want to check any of these blog posts (ordered latest published first):
+After you've set up your Rust and worked yourself [through "The Book"](https://doc.rust-lang.org/book/), we highly recommend taking a look at [fully annotated source code](https://clippy.bashy.io/docs/) of the [clippy-service](https://clippy.bashy.io), an iron-based microservice, which shows how to use many common features like redis database connections or JSON parsing. Otherwise you might want to check any of these blog posts (ordered latest published first):
 
 - [Using Stainless with Rocket](http://neikos.me/Using_Stainless_with_Rocket.html)
 - [REST in Rust](https://gsquire.github.io/static/post/rest-in-rust/)
@@ -38,7 +38,7 @@ Either way you choose, if you find yourself stuck and looking for help, the [off
 
 ## In detail
 
-learn more about the state of web developer in rust by topic:
+learn more about the state of web developer in Rust by topic:
 
 <ul class="topic-list">
   {% for page in site.pages %}

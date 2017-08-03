@@ -17,6 +17,7 @@ packages:
  - twig
  - polly
  - tera
+ - askama
 
 news_tag: templating
 ---

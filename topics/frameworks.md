@@ -8,14 +8,15 @@ intro: When building a modern web-application you don't want to bother on how to
 
 packages:
  - conduit
+ - edge
+ - gotham
  - iron
  - nickel
+ - pencil
  - rocket
+ - rouille
  - rustful
  - rustless
- - pencil
- - rouille
- - edge
 
 news_tag: frameworks
 ---

@@ -10,6 +10,7 @@ packages:
  - hyper
  - curl
  - ease
+ - reqwest
  - requests
 
 news_tag: clients

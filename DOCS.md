@@ -56,7 +56,7 @@ These packages are then referenced by that id in the templates and site
 
 ### Fetch package data
 
-We have a bash script which lets you easily fetch the latest package information – you need to have `curl` installed for it. You can run it to fetch the latest info like this (don't forget the `.json` prefix):
+We have a bash script which lets you easily fetch the latest package information – you need to have `curl` installed for it. You can run it to fetch the latest info like this (don't forget the `.json` suffix):
 
 ```bash
 bash scripts/update_crates.sh hyper.json

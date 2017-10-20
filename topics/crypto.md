@@ -21,6 +21,7 @@ rng:
 passwords:
   - bcrypt
   - djangohashers
+  - pwhash
 
 tls:
  - rustls
@@ -40,6 +41,7 @@ hashing:
  - argon2rs
  - blake2-rfc
  - bcrypt
+ - pwhash
 
 algorithms:
  - secp256k1

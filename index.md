@@ -20,6 +20,9 @@ The web frameworks of choice in the community are:
 
 <ul>
   <li>
+    <a href="/topics/frameworks/#pkg-actix-web">Actix</a>
+  </li>
+  <li>
     <a href="/topics/frameworks/#pkg-conduit">Conduit</a>
   </li>
   <li>
@@ -64,6 +67,9 @@ If you'd like to use an ORM there is:
 If you need to (or want to) go lower in the stack:
 
 <ul>
+  <li>
+    <a href="/topics/stack/#pkg-h2">H2</a>
+  </li>
   <li>
     <a href="/topics/stack/#pkg-hyper">Hyper</a>
   </li>

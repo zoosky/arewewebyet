@@ -12,6 +12,7 @@ servers:
  - rotor-http
 
 http2:
+ - h2
  - solicit
 
 websocket:

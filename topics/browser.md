@@ -12,7 +12,3 @@ news_tag: browser
 <h2>Web Rendering Engine: Servo</h2>
 
 Not yet published on crates.io but steady and continuously developed by Mozilla.
-
-<h2><a href="http://webassembly.github.io/">Webassembly</a>: Still in design mode</h2>
-
-WebAssembly is currently being designed as an open standard by the W3C Community Group that includes representatives from all major browsers. But once it is there, it will only be a question of time until Rust allows to be compiled for that target, too.

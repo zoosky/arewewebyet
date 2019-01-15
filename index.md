@@ -37,6 +37,9 @@ The web frameworks of choice in the community are:
   <li>
     <a href="/topics/frameworks/#pkg-rocket">Rocket</a>
   </li>
+  <li>
+    <a href="/topics/frameworks/#pkg-tower-web">Tower Web</a>
+  </li>
 </ul>
 
 For data storage there are mature drivers for:

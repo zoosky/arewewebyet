@@ -17,6 +17,7 @@ packages:
  - rouille
  - rustful
  - rustless
+ - tower-web
 
 news_tag: frameworks
 ---

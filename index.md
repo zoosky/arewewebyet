@@ -23,9 +23,6 @@ The web frameworks of choice in the community are:
     <a href="/topics/frameworks/#pkg-actix-web">Actix</a>
   </li>
   <li>
-    <a href="/topics/frameworks/#pkg-conduit">Conduit</a>
-  </li>
-  <li>
     <a href="/topics/frameworks/#pkg-gotham">Gotham</a>
   </li>
   <li>
@@ -78,9 +75,6 @@ If you need to (or want to) go lower in the stack:
   </li>
   <li>
     <a href="/topics/stack/#pkg-hyper">Hyper</a>
-  </li>
-  <li>
-    <a href="/topics/stack/#pkg-solicit">Solicit</a>
   </li>
   <li>
     <a href="/topics/stack/#pkg-tiny_http">tiny_http</a>

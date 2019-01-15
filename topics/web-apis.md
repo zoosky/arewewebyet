@@ -31,7 +31,7 @@ packages:
  - freegeoip
  - pusher
  - slack-hook
- - rusoto
+ - rusoto-core
  - afterparty
 
 missing:

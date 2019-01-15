@@ -22,6 +22,7 @@ packages:
  - time
  - backtrace
  - docopt
+ - structopt
  - url
  - robotparser
  - multipart

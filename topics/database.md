@@ -22,6 +22,7 @@ drivers:
  - influent
  - mongodb
  - cassandra
+ - cassandra-cpp
  - mongo_driver
 
 orms:

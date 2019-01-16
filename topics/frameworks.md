@@ -18,6 +18,7 @@ packages:
  - rustful
  - rustless
  - tower-web
+ - thruster
  - warp
 
 news_tag: frameworks

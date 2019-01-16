@@ -24,6 +24,7 @@ packages:
  - firebase
  - startuppong
  - urbandict
+ - urlshortener
  - coinbaser
  - twilio
  - wikipedia

@@ -12,6 +12,7 @@ packages:
  - ease
  - reqwest
  - requests
+ - chttp
 
 news_tag: clients
 ---

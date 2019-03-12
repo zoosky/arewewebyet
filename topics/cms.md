@@ -8,13 +8,5 @@ level: 4
 packages:
  - cobalt-bin
 
-upcoming:
- - name: lightning-rs
-   url: https://github.com/chriskrycho/lightning-rs
-   desc: Yet another static site generator
- - name: iron-cms
-   url: https://github.com/mrLSD/iron-cms
-   desc: a CMS for iron
-
 news_tag: cms
 ---

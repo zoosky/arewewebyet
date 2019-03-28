@@ -13,7 +13,6 @@ packages:
  - inth-oauth2
  - yup-oauth2
  - frank_jwt
- - macaroons
  - otpauth
  - rust_accountkit
  - asap

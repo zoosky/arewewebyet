@@ -17,6 +17,7 @@ packages:
  - rouille
  - rustful
  - rustless
+ - tide
  - tower-web
  - warp
 

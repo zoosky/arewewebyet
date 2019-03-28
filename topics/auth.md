@@ -14,7 +14,6 @@ packages:
  - yup-oauth2
  - frank_jwt
  - otpauth
- - rust_accountkit
  - asap
 
 missing:

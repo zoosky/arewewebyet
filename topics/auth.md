@@ -9,10 +9,13 @@ packages:
  - cookie
  - oauth2
  - oauth-client
+ - oxide-auth
  - inth-oauth2
  - yup-oauth2
  - frank_jwt
  - otpauth
+ - rust_accountkit
+ - asap
 
 missing:
  - OAuth-Provider Support

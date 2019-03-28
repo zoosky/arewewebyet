@@ -8,7 +8,6 @@ intro: Cryptography is a corner stone of a trusted web. Without it many services
 
 suites:
  - openssl
- - rust-crypto
  - libsodium-sys
  - gpgme
  - ring
@@ -16,7 +15,6 @@ suites:
 rng:
  - rand
  - uuid
- - random
 
 passwords:
   - bcrypt
@@ -26,19 +24,13 @@ passwords:
 tls:
  - rustls
  - openssl
- - solicit
- - tls
  - webpki
 
 hashing:
  - fnv
- - farmhash
  - twox-hash
- - shaman
  - md5
  - djangohashers
- - hash-rs
- - argon2rs
  - blake2-rfc
  - bcrypt
  - pwhash
@@ -46,9 +38,7 @@ hashing:
 algorithms:
  - secp256k1
  - twox-hash
- - chacha20-poly1305-aead
  - blake2-rfc
- - fastpbkdf2
 
 tooling:
  - tempfile

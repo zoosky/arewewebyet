@@ -15,6 +15,7 @@ packages:
  - macaroons
  - otpauth
  - rust_accountkit
+ - asap
 
 missing:
  - OAuth-Provider Support

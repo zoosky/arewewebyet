@@ -8,6 +8,7 @@ level: 3
 packages:
  - rustc-serialize
  - serde_json
+ - json_in_type
  - json_macros
  - jsonway
  - weakjson

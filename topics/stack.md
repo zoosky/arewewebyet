@@ -12,7 +12,6 @@ servers:
 
 http2:
  - h2
- - solicit
 
 websocket:
  - websocket

@@ -21,7 +21,6 @@ packages:
  - vkrs
  - telegram-bot
  - dnsimple
- - firebase
  - startuppong
  - urbandict
  - urlshortener

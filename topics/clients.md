@@ -10,7 +10,6 @@ packages:
  - hyper
  - curl
  - reqwest
- - requests
  - chttp
 
 news_tag: clients

@@ -6,6 +6,7 @@ intro: With many Web-Apps we want to reach farther than our locally hosted servi
 
 level: 4
 packages:
+ - acme-client
  - docker
  - doapi
  - twitter-api

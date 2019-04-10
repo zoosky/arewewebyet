@@ -23,6 +23,7 @@ protocols:
  - crust
  - ftp
  - fastcgi
+ - sozu
 
 news_tag: stack
 

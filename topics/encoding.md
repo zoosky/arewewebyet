@@ -11,9 +11,6 @@ packages:
  - base64
  - urlencoded
  - multipart
- - http2parse
- - nue-io
- - hpack
  - bitsparrow
 
 news_tag: encoding

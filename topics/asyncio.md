@@ -13,5 +13,5 @@ packages:
  - runtime
  - tokio
 
-news_tag: node.js
+news_tag: asyncio
 ---

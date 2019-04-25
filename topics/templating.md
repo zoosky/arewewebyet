@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: "Templating in rust"
+title: "Templating"
 
 level: 4
 

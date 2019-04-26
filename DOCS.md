@@ -4,7 +4,7 @@ This document outlines the technologies used, the structure of the project and d
 
 ## Getting started
 
-This project is hosted on github pages and uses the default [Jekyll](http://www.jekyll.rb) setup to do that. Jekyll is a static website compiler – it uses our data to render a bunch of HTML pages out of it. If you do not have jekyll yet, you can install it by using bundler (`bundler install jekyll`) or any other way [outlined on the official website](http://jekyllrb.com/docs/installation/).
+This project is hosted on github pages and uses the default [Jekyll](https://jekyllrb.com/) setup to do that. Jekyll is a static website compiler – it uses our data to render a bunch of HTML pages out of it. If you do not have jekyll yet, you can install it by using bundler (`bundler install jekyll`) or any other way [outlined on the official website](http://jekyllrb.com/docs/installation/).
 
 To install the latest version as rendered by github pages, please use bundle:
 

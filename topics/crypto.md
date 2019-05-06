@@ -51,8 +51,6 @@ news_tag: crypto
 
 <h2>Suites  {% include level.html level=2 %}</h2>
 
-<p><em>While openssl is the most popular suite, rust-crypto remains the only memory-safe option.</em></p>
-
 {% include packages.html packages=page.suites %}
 
 

@@ -7,6 +7,7 @@ intro: Basic pages and compiling source content into full websites to be served 
 level: 4
 packages:
  - cobalt-bin
+ - zola
 
 news_tag: cms
 ---

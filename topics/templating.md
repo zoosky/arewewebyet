@@ -9,6 +9,7 @@ intro: No Web-App is complete if it doesn't spit out HTML at least some of the t
 packages:
  - handlebars
  - handlebars-iron
+ - markup
  - maud
  - liquid
  - horrorshow

@@ -36,9 +36,16 @@ hashing:
  - pwhash
 
 algorithms:
- - secp256k1
- - twox-hash
  - blake2-rfc
+ - bulletproofs
+ - curve25519-dalek
+ - ed25519-dalek
+ - merlin
+ - secp256k1
+ - subtle
+ - twox-hash
+ - x25519-dalek
+ - zkp
 
 tooling:
  - tempfile

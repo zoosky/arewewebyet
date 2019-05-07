@@ -18,6 +18,7 @@ packages:
  - polly
  - tera
  - askama
+ - ramhorns
  - ructe
 
 news_tag: templating

@@ -15,6 +15,8 @@ intro: WebAssembly is currently being designed as an open standard by the W3C Co
 
 packages:
  - cargo-web
+ - console_error_panic_hook
+ - console_log
  - dodrio
  - dominator
  - stdweb

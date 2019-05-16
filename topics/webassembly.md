@@ -26,6 +26,7 @@ packages:
  - plaster
  - seed
  - yew
+ - wasm-tracing-allocator
 
 news_tag: webassembly
 ---

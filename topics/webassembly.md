@@ -25,6 +25,7 @@ packages:
  - gloo
  - plaster
  - seed
+ - squark
  - yew
  - wasm-tracing-allocator
 

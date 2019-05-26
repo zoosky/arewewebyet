@@ -10,6 +10,7 @@ packages:
  - actix-web
  - canteen
  - conduit
+ - finchers
  - gotham
  - iron
  - nickel
@@ -21,6 +22,7 @@ packages:
  - tide
  - tower-web
  - thruster
+ - tsukuyomi
  - warp
 
 news_tag: frameworks

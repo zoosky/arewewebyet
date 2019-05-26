@@ -14,6 +14,7 @@ http2:
  - h2
 
 websocket:
+ - tungstenite
  - websocket
  - ws
  - websocket-stream

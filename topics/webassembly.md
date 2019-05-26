@@ -26,6 +26,7 @@ packages:
  - plaster
  - seed
  - squark
+ - virtual-dom-rs
  - yew
  - wasm-tracing-allocator
 

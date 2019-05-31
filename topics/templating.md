@@ -21,6 +21,7 @@ packages:
  - askama
  - ramhorns
  - ructe
+ - typed-html
 
 news_tag: templating
 ---

@@ -9,6 +9,7 @@ intro: Proper Database support is crucial for modern web development. This page 
 
 drivers:
  - mysql
+ - mysql_async
  - postgres
  - pleingres
  - redis
@@ -18,8 +19,10 @@ drivers:
  - couchdb
  - etcd
  - influent
- - mongodb
  - cassandra-cpp
+ - cdrs
+ - memcache
+ - mongodb
  - mongo_driver
 
 orms:

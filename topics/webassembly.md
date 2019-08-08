@@ -19,16 +19,19 @@ packages:
  - console_log
  - dodrio
  - dominator
- - stdweb
- - wasm-bindgen
- - wasm-pack
+ - futures-signals
  - gloo
  - plaster
  - seed
  - squark
+ - state_machine_future
+ - stdweb
  - virtual-dom-rs
- - yew
+ - wasm-bindgen
+ - wasm-pack
  - wasm-tracing-allocator
+ - woz
+ - yew
 
 news_tag: webassembly
 ---

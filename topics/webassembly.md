@@ -21,8 +21,10 @@ packages:
  - dominator
  - futures-signals
  - gloo
+ - moxie
  - plaster
  - seed
+ - smithy
  - squark
  - state_machine_future
  - stdweb

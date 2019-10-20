@@ -21,7 +21,7 @@ packages:
  - dominator
  - futures-signals
  - gloo
- - moxie
+ - moxie-dom
  - plaster
  - seed
  - smithy

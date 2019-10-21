@@ -7,12 +7,8 @@ intro: Serializers allow you to easily transfer states and reliably get it back 
 level: 3
 packages:
  - serde
- - rustc-serialize
  - serde_json
  - jsonway
- - cereal
- - hipack
- - weakjson
 
 news_tag: serialiser
 ---

@@ -8,7 +8,6 @@ intro: One of the first things almost anyone does to improve performance (specif
 
 packages:
  - flate2
- - lzw
  - tar
  - inflate
  - bzip2

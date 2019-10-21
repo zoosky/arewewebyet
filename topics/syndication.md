@@ -8,10 +8,7 @@ intro: To spread the information syndication has often be announced dead just to
 
 packages:
  - rss
- - syndication
  - atom_syndication
- - feed
- - redox
 
 news_tag: syndication
 ---

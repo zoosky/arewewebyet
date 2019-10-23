@@ -10,19 +10,13 @@ queues:
  - beanstalkd
  - stomp
  - amqp
- - disqrust
- - disque
- - ferrous_threads
  - kafka
- - oppgave
 
 search:
  - rs-es
 
 pubsub:
  - redis
- - pubsub
- - mqttc
 
 missing:
  - Hadoop connectors

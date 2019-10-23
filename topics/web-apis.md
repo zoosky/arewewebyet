@@ -7,33 +7,19 @@ intro: With many Web-Apps we want to reach farther than our locally hosted servi
 level: 4
 packages:
  - acme-client
- - docker
- - doapi
  - twitter-api
- - megam_api
- - stockfighter-api
- - po
  - discord
  - strava
- - github
  - hubcaps
- - rust-github
  - googl
  - vkrs
  - telegram-bot
- - dnsimple
- - startuppong
- - urbandict
  - urlshortener
- - coinbaser
- - twilio
  - wikipedia
  - keen
- - freegeoip
  - pusher
  - slack-hook
  - rusoto-core
- - afterparty
 
 missing:
  - Facebook

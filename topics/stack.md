@@ -17,8 +17,6 @@ websocket:
  - tungstenite
  - websocket
  - ws
- - websocket-stream
- - rustic-io
 
 protocols:
  - crust

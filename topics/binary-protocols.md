@@ -10,6 +10,9 @@ packages:
  - flatbuffers
  - grpc
  - protobuf
+ - prost
+ - tarpc
+ - tonic
 
 
 news_tag: binary-protocols

@@ -13,6 +13,7 @@ packages:
  - reqwest
  - surf
  - ureq
+ - yukikaze
 
 news_tag: clients
 ---

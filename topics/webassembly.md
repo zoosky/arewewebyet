@@ -23,6 +23,7 @@ packages:
  - gloo
  - moxie-dom
  - plaster
+ - plotters
  - seed
  - smithy
  - squark
@@ -30,6 +31,7 @@ packages:
  - stdweb
  - virtual-dom-rs
  - wasm-bindgen
+ - wasm-bindgen-futures
  - wasm-pack
  - wasm-tracing-allocator
  - woz

@@ -14,6 +14,7 @@ drivers:
  - pleingres
  - redis
  - redis-async
+ - darkredis
  - rusqlite
  - tokio-postgres
  - leveldb

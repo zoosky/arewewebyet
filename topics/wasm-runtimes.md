@@ -12,5 +12,5 @@ packages:
  - wasmer
  - wasmtime
 
-news_tag: webassembly
+news_tag: webassembly-runtimes
 ---

@@ -7,7 +7,6 @@ level: 2
 intro: Binary protocol support
 
 packages:
- - flatbuffers
  - grpc
  - protobuf
  - prost

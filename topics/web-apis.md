@@ -19,6 +19,7 @@ packages:
  - keen
  - pusher
  - slack-hook
+ - rants
  - rusoto-core
 
 missing:

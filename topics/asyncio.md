@@ -10,11 +10,11 @@ packages:
  - async-compression
  - async-std
  - async-stream
+ - async-trait
  - futures
  - futures-intrusive
- - juliex
- - romio
  - tokio
+ - tracing
 
 news_tag: asyncio
 ---

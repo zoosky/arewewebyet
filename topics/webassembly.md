@@ -14,6 +14,7 @@ intro: WebAssembly is currently being designed as an open standard by the W3C Co
  named [gloo](https://rustwasm.github.io/2019/03/12/lets-build-gloo-together.html)
 
 packages:
+ - cargo-wasi
  - cargo-web
  - console_error_panic_hook
  - console_log

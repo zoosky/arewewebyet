@@ -6,6 +6,10 @@ intro: Serializers allow you to easily transfer states and reliably get it back 
 
 level: 3
 packages:
+ - async-bincode
+ - bincode
+ - flatbuffers
+ - rmp
  - serde
  - serde_json
  - jsonway

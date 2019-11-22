@@ -9,7 +9,7 @@ intro: List of standalone WebAssembly runtimes
 packages:
  - lucet-runtime
  - lucet-wasi
- - wasmer
+ - wasmer-runtime
  - wasmtime
 
 news_tag: webassembly-runtimes

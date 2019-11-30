@@ -92,7 +92,7 @@ Either way you choose, if you find yourself stuck and looking for help, the [off
 
 ## In detail
 
-learn more about the state of web developer in Rust by topic:
+learn more about the state of web development in Rust by topic:
 
 <ul class="topic-list">
   {% for page in site.pages %}
